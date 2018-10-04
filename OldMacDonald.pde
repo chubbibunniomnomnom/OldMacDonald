@@ -2,7 +2,7 @@
 void setup()
 {
 	Farm f = new Farm();
-	Farm.animalSounds();
+	f.animalSounds();
 	//your variable declarations here
 }
 
